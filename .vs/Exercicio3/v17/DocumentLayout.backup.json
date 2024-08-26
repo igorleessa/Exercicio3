@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|c:\\users\\igor\\source\\repos\\exercicio3\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|c:\\users\\igor\\source\\repos\\exercicio3\\exercicio3\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|c:\\users\\igor\\source\\repos\\exercicio3\\exercicio3\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|c:\\users\\igor\\source\\repos\\exercicio3\\exercicio3\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|c:\\users\\igor\\source\\repos\\exercicio3\\exercicio3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|c:\\users\\igor\\source\\repos\\exercicio3\\exercicio3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|c:\\users\\igor\\source\\repos\\exercicio3\\exercicio3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEE2CCDF-F4DA-4C3B-BE9B-AA11F0892C69}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Exercicio3\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\appsettings.Development.json",
+              "RelativeToolTip": "Exercicio3\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T21:18:48.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\Program.cs",
+              "RelativeToolTip": "Exercicio3\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:41:48.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Exercicio3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Exercicio3\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T21:42:18.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "Exercicio3\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\appsettings.Production.json",
+              "RelativeToolTip": "Exercicio3\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T21:52:30.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Staging.json",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\appsettings.Staging.json",
+              "RelativeDocumentMoniker": "Exercicio3\\appsettings.Staging.json",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\appsettings.Staging.json",
+              "RelativeToolTip": "Exercicio3\\appsettings.Staging.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T21:52:43.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Exercicio3\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Exercicio3\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAywB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T22:01:05.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\appsettings.json",
+              "RelativeDocumentMoniker": "Exercicio3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Exercicio3\\Exercicio3\\appsettings.json",
+              "RelativeToolTip": "Exercicio3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T21:50:08.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
